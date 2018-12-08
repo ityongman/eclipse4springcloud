@@ -8,3 +8,6 @@
 /springcloud-day01-eureka-client/.settings
 /springcloud-day01-eureka-client/*.project
 /springcloud-day01-eureka-client/*.classpath
+/springcloud-day01-eureka-consumer/.settings
+/springcloud-day01-eureka-consumer/*.classpath
+/springcloud-day01-eureka-consumer/*.project
