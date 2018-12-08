@@ -1,0 +1,6 @@
+/.metadata
+/.sonarlint
+/springcloud-day01/.settings
+/springcloud-day01/target
+/springcloud-day01/*.classpath
+/springcloud-day01/*.project
