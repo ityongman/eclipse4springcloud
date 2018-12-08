@@ -4,3 +4,7 @@
 /springcloud-day01/target
 /springcloud-day01/*.classpath
 /springcloud-day01/*.project
+/.recommenders
+/springcloud-day01-eureka-client/.settings
+/springcloud-day01-eureka-client/*.project
+/springcloud-day01-eureka-client/*.classpath
