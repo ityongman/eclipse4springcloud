@@ -11,3 +11,6 @@
 /springcloud-day01-eureka-consumer/.settings
 /springcloud-day01-eureka-consumer/*.classpath
 /springcloud-day01-eureka-consumer/*.project
+/springcloud-day02-feign/.settings
+/springcloud-day02-feign/*.project
+/springcloud-day02-feign/*.classpath
