@@ -5,7 +5,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
-@FeignClient("compute-service")
+import com.ityongman.client.impl.ComputeClientHystrix;
+
+@FeignClient(value="compute-service", fallback=ComputeClientHystrix.class)
 public interface ComputeClient {
 	
 	@RequestMapping(value="/add", method=RequestMethod.GET)
