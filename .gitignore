@@ -14,3 +14,7 @@
 /springcloud-day02-feign/.settings
 /springcloud-day02-feign/*.project
 /springcloud-day02-feign/*.classpath
+/springcloud-day03-config-center-server/.settings
+/springcloud-day03-config-center-server/*.gitignore
+/springcloud-day03-config-center-server/*.project
+/springcloud-day03-config-center-server/*.classpath
