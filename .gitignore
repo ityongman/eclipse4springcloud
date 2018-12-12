@@ -18,3 +18,7 @@
 /springcloud-day03-config-center-server/*.gitignore
 /springcloud-day03-config-center-server/*.project
 /springcloud-day03-config-center-server/*.classpath
+/springcloud-day03-config-server-client/.settings
+/springcloud-day03-config-server-client/*.gitignore
+/springcloud-day03-config-server-client/*.project
+/springcloud-day03-config-server-client/*.classpath
