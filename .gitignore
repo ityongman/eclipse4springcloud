@@ -22,3 +22,5 @@
 /springcloud-day03-config-server-client/*.gitignore
 /springcloud-day03-config-server-client/*.project
 /springcloud-day03-config-server-client/*.classpath
+/springcloud-day03-config-center-server/target
+/springcloud-day03-config-server-client/target
