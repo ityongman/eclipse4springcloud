@@ -20,7 +20,8 @@ public class ComputeController {
 	@RequestMapping(value="/add", method=RequestMethod.GET)
 	public Integer add(@RequestParam Integer a, @RequestParam Integer b) {
 		ServiceInstance instance = client.getLocalServiceInstance();
-		log.info("/add , host " +instance.getHost()+ ", service_id : " + instance.getServiceId() + ", result is "+(a + b));
+		log.info("/add , host " +instance.getHost()+ ", service_id : " + instance.getServiceId() 
+			+ ", service port : "+ instance.getPort() +", result is "+(a + b));
 		
 		return a + b ;
 	}

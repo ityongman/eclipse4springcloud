@@ -24,3 +24,6 @@
 /springcloud-day03-config-server-client/*.classpath
 /springcloud-day03-config-center-server/target
 /springcloud-day03-config-server-client/target
+/springcloud-day04-zuul/.settings
+/springcloud-day04-zuul/*.classpath
+/springcloud-day04-zuul/*.project
