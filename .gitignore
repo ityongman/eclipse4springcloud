@@ -27,3 +27,12 @@
 /springcloud-day04-zuul/.settings
 /springcloud-day04-zuul/*.classpath
 /springcloud-day04-zuul/*.project
+/springcloud-dalston-consul-consumer/.settings
+/springcloud-dalston-consul-consumer/*.gitignore
+/springcloud-dalston-consul-consumer/*.project
+/springcloud-dalston-consul-consumer/*.classpath
+/springcloud-dalston-consul-privoder/.settings
+/springcloud-dalston-consul-privoder/*.classpath
+/springcloud-dalston-consul-privoder/*.gitignore
+/springcloud-dalston-consul-privoder/*.project
+/dingtalk_mini_without_login
